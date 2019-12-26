@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 12.125" name="innosoft_crm">
+  <DataContextMoniker Name="/innosoft_crmDataContext" />
+  <nestedChildShapes>
+    <classShape Id="d3776113-ba2c-48a1-ab4b-d410a1c9383b" absoluteBounds="0.75, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/innosoft_crmDataContext/innosoft_mstActionType" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9c35203f-8180-41a3-be27-12932ff99ec7" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9c7893c7-60b2-41ef-8a76-d413a54e35bb" absoluteBounds="3.75, 0.75, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/innosoft_crmDataContext/innosoft_trnProjectAction" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fdfd9a6c-ab2e-4e60-b884-be3de3189d72" absoluteBounds="3.765, 1.21, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d01948fd-588d-4e8e-b5bd-898f2347f298" absoluteBounds="0.75, 4.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/innosoft_crmDataContext/innosoft_mstCallStatus" />
+      <nestedChildShapes>
+        <elementListCompartment Id="32e9fc01-fbc3-4046-8f08-7a453367988d" absoluteBounds="0.765, 5.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e6a99dfd-42e4-48bd-88e9-261dee3c8fc4" absoluteBounds="3.75, 4.75, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/innosoft_crmDataContext/innosoft_mstCustomer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ba579757-1846-41d5-9b6f-60ce236a3ffc" absoluteBounds="3.765, 5.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="49121580-2c53-4482-af9f-1c225e68f255" absoluteBounds="6.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/innosoft_crmDataContext/innosoft_mstProduct" />
+      <nestedChildShapes>
+        <elementListCompartment Id="165dde5c-bcb5-4d8b-8781-867b778443c1" absoluteBounds="6.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="67994d51-4fc1-4b6f-8c7e-514dea6282da" absoluteBounds="6.75, 2.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/innosoft_crmDataContext/innosoft_mstProjectStatus" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f08ef494-3acf-444b-8792-2a95c0ff2b40" absoluteBounds="6.765, 3.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d00ec119-432d-4a34-9689-e7987bcf404a" absoluteBounds="6.75, 5.75, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/innosoft_crmDataContext/innosoft_mstStaff" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9dfc4a01-7a5f-4605-8c04-eddab9634efb" absoluteBounds="6.765, 6.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7a12df78-fe65-4aca-a53b-a7bce9bb4647" absoluteBounds="0.75, 7.75, 2, 2.5401025390624996">
+      <DataClassMoniker Name="/innosoft_crmDataContext/innosoft_trnCall" />
+      <nestedChildShapes>
+        <elementListCompartment Id="249661e6-6e03-4183-a9a7-a0aaea0fdb33" absoluteBounds="0.765, 8.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="88b77847-e4de-4fb9-aaa3-ef7384d245ad" absoluteBounds="3.75, 8.75, 2, 3.1170068359375023">
+      <DataClassMoniker Name="/innosoft_crmDataContext/innosoft_trnCallAction" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bfaa0567-cc19-4732-8d9d-b0bca496dd69" absoluteBounds="3.765, 9.21, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f5c58274-f3ed-4d05-bf61-06eb70fa593c" absoluteBounds="6.75, 8.75, 2, 2.5401025390624987">
+      <DataClassMoniker Name="/innosoft_crmDataContext/innosoft_trnProject" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b8fc9379-ffb5-426d-b30f-a8549519aeb9" absoluteBounds="6.765, 9.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
